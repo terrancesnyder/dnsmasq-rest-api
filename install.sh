@@ -2,7 +2,7 @@
 
 set -e
 
-PORT=$1
+PORT=7777
 
 target=/opt/dnsmasq-rest-api/
 
